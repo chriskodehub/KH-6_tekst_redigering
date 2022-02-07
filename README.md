@@ -1,7 +1,7 @@
 # Buttons del 2
 
 [Source code](https://github.com/chriskodehub/KH-6_tekst_redigering)  
-[Live demo](https://https://chriskodehub.github.io/KH-6_tekst_redigering/)
+[Live demo](https://chriskodehub.github.io/KH-6_tekst_redigering/)
 
 ## Oppgave
 

@@ -1,4 +1,4 @@
-# Buttons del 2
+# Tekst redigering
 
 [Source code](https://github.com/chriskodehub/KH-6_tekst_redigering)  
 [Live demo](https://chriskodehub.github.io/KH-6_tekst_redigering/)
